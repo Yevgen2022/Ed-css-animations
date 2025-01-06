@@ -77,7 +77,7 @@ describe('CSS Animations', () => {
     });
 
     describe('.block2 animation', () => {
-        it('block should have animation "bgcolor2" and animation duration for 5s', async () => {
+        it('block should have animation "bgcolor2" and animation duration for 4s', async () => {
             await waitBrowserLoadEvent(document);
            
             const styleDeclaration = getStyleDeclarationForSelector('.block2', document.styleSheets);
