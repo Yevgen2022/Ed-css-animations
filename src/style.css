@@ -14,11 +14,11 @@ body {
 
 /* first require */
 @keyframes bgcolor {
-    0% {
+    from {
         background-color: #ff5733;
     }
-
-    100% {
+    
+    to {
         background-color: #3393ff;
     }
 }
@@ -57,12 +57,12 @@ body {
 /* third require */
 @keyframes blockmove {
     0% {
-        top: 0;
-        left: 0;
+        top: 0px;
+        left: 0px;
     }
 
     25% {
-        top: 0;
+        top: 0px;
         left: 320px;
     }
 
@@ -73,12 +73,12 @@ body {
 
     75% {
         top: 320px;
-        left: 0;
+        left: 0px;
     }
 
     100% {
-        top: 0;
-        left: 0;
+        top: 0px;
+        left: 0px;
     }
 }
 
@@ -93,8 +93,8 @@ body {
 /* four require */
 @keyframes blockcolormove {
     0% {
-        top: 0;
-        left: 0;
+        top: 0px;
+        left: 0px;
         background-color: #33fffc;
     }
 
@@ -105,8 +105,8 @@ body {
     }
 
     100% {
-        top: 0;
-        left: 0;
+        top: 0px;
+        left: 0px;
         background-color: #33fffc;
     }
 }
@@ -185,7 +185,7 @@ body {
     background: #e2ec46;
     animation-name: moveleft;
     animation-duration:  5s;
-    animation-direction: linear;
+    animation-timing-function: linear;
 }
 
 
