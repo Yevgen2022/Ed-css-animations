@@ -2,15 +2,10 @@
 
 An educational landing page project demonstrating the use of CSS animations and transformations through 10 unique blocks. Each block is animated with distinct behavior using `@keyframes`, `transform`, `transition`, and timing control.
 
-## 🚀 Live Demo
-👉 [Click here to view](https://css-animations-ab70d1.gitlab.io)
+## Live Demo
+[Click here to view](https://css-animations-ab70d1.gitlab.io)
 
-<!-- ## 📁 Repository
-👉 [GitLab Repo](https://gitlab.com/Yevhen2022/css-transform-and-animation) -->
-
----
-
-## 🧠 Key Concepts Applied
+## Key Concepts Applied
 
 - Applied custom `@keyframes` animations to multiple elements with varied behavior
 - Controlled animation timing with properties like `animation-delay`, `animation-iteration-count`, `animation-direction`, and `animation-fill-mode`
@@ -20,7 +15,7 @@ An educational landing page project demonstrating the use of CSS animations and 
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - HTML5
 - CSS3
@@ -30,6 +25,6 @@ An educational landing page project demonstrating the use of CSS animations and 
 
 ---
 
-## 📝 Task Instructions
+## Task Instructions
 
 See [REQUIREMENTS.md](./REQUIREMENTS.md) for the full original task description from the course.
