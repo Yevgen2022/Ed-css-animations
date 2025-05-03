@@ -3,8 +3,7 @@
 An educational landing page project demonstrating the use of CSS animations and transformations through 10 unique blocks. Each block is animated with distinct behavior using `@keyframes`, `transform`, `transition`, and timing control.
 
 ## Live Demo
-[Click here to view](https://css-animations-ab70d1.gitlab.io)
-<!-- Trigger CI -->
+[Click here to view](https://yevgen2022.github.io/Ed-css-animations/)
 
 ## Key Concepts Applied
 
