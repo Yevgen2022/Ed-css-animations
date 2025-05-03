@@ -4,6 +4,7 @@ An educational landing page project demonstrating the use of CSS animations and 
 
 ## Live Demo
 [Click here to view](https://css-animations-ab70d1.gitlab.io)
+<!-- Trigger CI -->
 
 ## Key Concepts Applied
 
